@@ -6,7 +6,7 @@ let mainImage = document.getElementById("mainImage");
 let clickCount = 0;  // 记录点击 Yes 的次数
 
 // Yes 按钮的拒绝文案
-const question = [
+const rejectTexts = [
     "你不配！",
     "想得美！", 
     "我才不喜欢你！", 
